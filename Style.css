@@ -1,0 +1,110 @@
+
+body{background-color: #E0FFFF;
+
+/* background-image: url(Travel-Tourism-Industry-flyer-1\ \(1\).jpg); */
+
+}
+
+/*:hover.Submit{
+
+animation: move2 .26s ease-in; 
+
+}
+
+@keyframes move2{
+
+from{
+
+font-size: 20px;
+
+}
+
+to{
+
+font-size: 26px;
+
+}
+
+}*/
+
+#h0{
+
+background-image: linear-gradient(to bottom , #01FFFF , #FFB853 );
+
+padding: 40px;
+
+margin: -8px
+
+}
+
+#Quiz_Game{
+    
+font-size: 88px;
+
+margin-top: -10px;
+
+}
+
+.Options{
+
+border-radius: 80px; 
+    
+font-size: 20px;
+    
+height: 90px;
+
+margin-right: 10px;
+
+border: solid black 1px;
+
+/* background-color: #FFB853; */
+
+/* background-image: linear-gradient(to bottom , #01FFFF , #FFB853 ); */
+
+}
+
+#p1{
+
+font-size: 40px;
+
+}
+#pp1{
+    font-size: 20px;
+}
+
+#p2{
+
+font-size: 20px;
+
+}
+
+#d1{
+
+background-color: #E0FFFF;
+
+}
+
+#Next{
+
+font-size: 20px;
+
+}
+
+#Previous{
+
+font-size: 20px;
+
+}
+
+.Submit{
+
+font-size: 20px;
+
+}
+
+#text{
+
+font-size: 20px;
+
+}
+
